@@ -1,5 +1,5 @@
 # IndusDraw
-![INDUS](https://user-images.githubusercontent.com/47734496/155876810-4ee79a19-eb58-4c22-838b-f4f0e57609e5.png)
+![INDUS](https://user-images.githubusercontent.com/47734496/155876886-c4bd259b-eec6-4c04-9be9-ec8de9f7115d.png)
 - [Overview](#overview)
 - [Documentation](#Documentation)
 - [System Requirements](#system-requirements)
