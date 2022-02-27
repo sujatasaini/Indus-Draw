@@ -46,7 +46,7 @@ cd Indus-Draw
 ```
 
 # Web App flow
-[Web App Infrastructure]![indusdraw-2](https://user-images.githubusercontent.com/47734496/155876257-12ad92d9-6d37-468b-8c28-94c7c9b72ebc.png)
+![indusdraw-2](https://user-images.githubusercontent.com/47734496/155876257-12ad92d9-6d37-468b-8c28-94c7c9b72ebc.png)
 
 # Dataset
 :file_folder: **IndusDraw** dataset will be a drop-in replacement for the MNIST dataset (28x28 grayscale, 70,000 images), provided in the original MNIST format as well as a NumPy format. Indus-MNIST will contain 70,000 28x28 grayscale images spanning 10 classes (one from each column of, and is perfectly balanced like the original MNIST dataset (6k/1k train/test for each class).
