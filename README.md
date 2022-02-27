@@ -18,8 +18,8 @@ IndusDraw is a project of data collection of Indus Signs (Characters or Symbols 
 :memo: View our article "__IndusDraw: Collecting Indus Signs Data with CrowdSourcing__" 
 availble at (http://medium.com)
 
-## System Requirements 
-### Hardware requirements
+# System Requirements 
+## Hardware requirements
  :rocket: `IndusDraw` package requires only a standard computer with enough RAM to support the in-memory operations.
 
 ## Software requirements
@@ -29,7 +29,7 @@ This code is supported for *Windows*, *macOS* and *Linux*. The code has been tes
 + macOS: Mojave (10.14.1)
 + Linux: Ubuntu 16.04
 
-### Programming-Dependencies
+## Programming-Dependencies
 `IndusDraw` mainly depends on the these following Programming stack.
 
 ```
